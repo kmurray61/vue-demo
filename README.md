@@ -1,4 +1,4 @@
-# vue-typescript-demo
+# typescript-app
 
 ## Project setup
 ```
